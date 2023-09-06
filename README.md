@@ -11,5 +11,3 @@ O "Market Coins" foi desenvolvido em Swift usando a arquitetura VIP (View-Intera
 - Acesse informações de preços em tempo real.
 - Gráficos detalhados de variação de preço para cada criptomoeda.
 - Personalize intervalos de tempo para análise de gráficos de preços (por hora, diária, semanal, etc.).
-
-
